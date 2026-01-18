@@ -1,11 +1,16 @@
-<h2 align="left">Hi 👋! My name is Willian <br>I'm based in São Paulo, Brazil<br>I'm learning Advanced React, Node<br>I'm open to collaborating on projects that have a high impact in peoples lives</h2>
+👨‍💻 Willian Ferreira
 
-###
+Desenvolvedor Frontend
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devWillianFerreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devWillianFerreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Me chamo Willian Ferreira, sou Desenvolvedor Frontend e moro em São Paulo, Brasil. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde venho construindo uma base sólida em desenvolvimento de software, tecnologias web e resolução de problemas.
+
+Sou apaixonado por criar aplicações web modernas, acessíveis e de alta performance. Possuo experiência no desenvolvimento de interfaces utilizando React, Next.js, TypeScript e boas práticas de Frontend, sempre com foco em código limpo e excelente experiência do usuário.
+
+🚀 Atualmente aprendendo: React Avançado e Node.js
+🤝 Aberto a colaborar em: Projetos que gerem alto impacto na vida das pessoas
+🌍 Localização: São Paulo, Brasil
+
+Estou em constante evolução, buscando aprender novas tecnologias, aprimorar minhas habilidades e contribuir com projetos relevantes por meio de colaboração e aprendizado contínuo.
 
 ###
 

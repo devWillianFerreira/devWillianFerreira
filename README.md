@@ -1,6 +1,6 @@
 👨‍💻 Willian Ferreira
 
-Desenvolvedor Frontend
+**`Desenvolvedor Frontend`**
 
 Me chamo Willian Ferreira, sou Desenvolvedor Frontend e moro em São Paulo, Brasil. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde venho construindo uma base sólida em desenvolvimento de software, tecnologias web e resolução de problemas.
 

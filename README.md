@@ -1,11 +1,13 @@
-# 👩🏻‍💻 Willian Ferreira 
+# 👨‍💻 Willian Ferreira 
 
 **`Desenvolvedor Frontend`**
 
 Me chamo Willian Ferreira, sou Desenvolvedor Frontend e moro em São Paulo, Brasil. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde venho construindo uma base sólida em desenvolvimento de software, tecnologias web e resolução de problemas.
 
 🚀 Atualmente aprendendo: React Avançado e NextJs
+</br>
 🤝 Aberto a colaborar em: Projetos que gerem alto impacto na vida das pessoas
+</br>
 🌍 Localização: São Paulo, Brasil
 
 <p align="left">

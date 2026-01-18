@@ -1,8 +1,12 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Willian Ferreira 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Frontend`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Willian Ferreira, sou Desenvolvedor Frontend e moro em São Paulo, Brasil. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde venho construindo uma base sólida em desenvolvimento de software, tecnologias web e resolução de problemas.
+
+🚀 Atualmente aprendendo: React Avançado e NextJs
+🤝 Aberto a colaborar em: Projetos que gerem alto impacto na vida das pessoas
+🌍 Localização: São Paulo, Brasil
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">

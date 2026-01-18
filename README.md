@@ -6,13 +6,19 @@ Me chamo Willian Ferreira, sou Desenvolvedor Frontend e moro em São Paulo, Bras
 
 Sou apaixonado por criar aplicações web modernas, acessíveis e de alta performance. Possuo experiência no desenvolvimento de interfaces utilizando React, Next.js, TypeScript e boas práticas de Frontend, sempre com foco em código limpo e excelente experiência do usuário.
 
-🚀 Atualmente aprendendo: React Avançado e Node.js
+🚀 Atualmente aprendendo: React Avançado e nextjs
 🤝 Aberto a colaborar em: Projetos que gerem alto impacto na vida das pessoas
 🌍 Localização: São Paulo, Brasil
 
 Estou em constante evolução, buscando aprender novas tecnologias, aprimorar minhas habilidades e contribuir com projetos relevantes por meio de colaboração e aprendizado contínuo.
 
 ###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devWillianFerreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devWillianFerreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
